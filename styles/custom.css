@@ -1,6 +1,8 @@
-.big-image {
+.big-image-container {
 	max-height:50%;
+	max-width:50%;
 }
-.big-image img {
-	max-height:50%;
+.reveal section img.big-image {
+	width:100%;
+	margin:0 auto;
 }
