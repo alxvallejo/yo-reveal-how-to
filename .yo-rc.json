@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Yo Reveal How-To",
+    "packageVersion": "0.0.0",
+    "revealTheme": "blood",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "alxvallejo",
+    "githubRepository": "yo-reveal-how-to"
+  }
+}
