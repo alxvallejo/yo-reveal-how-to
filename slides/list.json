@@ -1,5 +1,6 @@
 [
     "index.md",
+    "hold-on-to-your-butts.md",
     [
         "components.md",
         "node.md",
@@ -9,5 +10,6 @@
     "yo-reveal.md",
     "grunt.md",
     "one-last-thing.md",
-    "nesting.md"
+    "nesting.md",
+    "resources.md"
 ]
