@@ -1,15 +1,9 @@
 [
     "index.md",
     "hold-on-to-your-butts.md",
-    [
-        "components.md",
-        "node.md",
-        "npm.md",
-        "yeoman.md"
-    ],
+    ["components.md", "node.md", "npm.md", "yeoman.md"],
     "yo-reveal.md",
     "grunt.md",
-    "one-last-thing.md",
-    "nesting.md",
+    ["one-last-thing.md", "nesting.md"],
     "resources.md"
 ]
