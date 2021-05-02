@@ -1,9 +1,9 @@
 # Generators
 
 -   Boilerplate Escape Hatch
-    -- Template Fragments <!-- .element: class="fragment" -->
-    -- Theme Development <!-- .element: class="fragment" -->
-    -- Code generation <!-- .element: class="fragment" -->
+-   Template Fragments <!-- .element: class="fragment" -->
+-   Theme Development <!-- .element: class="fragment" -->
+-   Code generation <!-- .element: class="fragment" -->
 
 -   Underscores <!-- .element: class="fragment" -->
 -   VS Code generators <!-- .element: class="fragment" -->
