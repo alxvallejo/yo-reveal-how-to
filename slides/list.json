@@ -3,7 +3,7 @@
     "why.md",
     "hold-on-to-your-butts.md",
     ["components.md", "node.md", "npm.md", "yeoman.md"],
-    "generator-tools.md",
+    ["generator-tools.md", "less-is-more.md"],
     "yo-reveal.md",
     "grunt.md",
     ["one-last-thing.md", "nesting.md"],
