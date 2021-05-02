@@ -2,6 +2,7 @@
     "index.md",
     "hold-on-to-your-butts.md",
     ["components.md", "node.md", "npm.md", "yeoman.md"],
+    "generator-tools.md",
     "yo-reveal.md",
     "grunt.md",
     ["one-last-thing.md", "nesting.md"],
