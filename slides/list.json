@@ -1,5 +1,6 @@
 [
     "index.md",
+    "why.md",
     "hold-on-to-your-butts.md",
     ["components.md", "node.md", "npm.md", "yeoman.md"],
     "generator-tools.md",
