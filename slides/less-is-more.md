@@ -1,9 +1,9 @@
-Less <!-- .element: class="fragment" --> Is <!-- .element: class="fragment" --> More <!-- .element: class="fragment" -->
+<span>Less <!-- .element: class="fragment" --></span> <span>Is <!-- .element: class="fragment" --></span> <span>More <!-- .element: class="fragment" --></span>
 
 <div> <!-- .element: class="fragment" -->
 https://blog.codinghorror.com/the-best-code-is-no-code-at-all/
 
-_the best code is no code at all - Jeff Atwood (co-founder of Stack Overflow)_
+-   _the best code is no code at all - Jeff Atwood (co-founder of Stack Overflow)_
 
 </div>
 
